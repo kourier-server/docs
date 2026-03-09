@@ -1,7 +1,7 @@
 var searchData=
 [
   ['schedulefordeletion_0',['scheduleForDeletion',['../classKourier_1_1Object.html#ac5ec05f53e61b130f17932896bab588b',1,'Kourier::Object']]],
-  ['sentdata_1',['sentData',['../classKourier_1_1IOChannel.html#a7b5c975fc1d013941c019d2c35038c27',1,'Kourier::IOChannel::sentData()'],['../classKourier_1_1HttpBroker.html#a1659dd5b9eb13e98d2034b64e9521104',1,'Kourier::HttpBroker::sentData()']]],
+  ['sentdata_1',['sentdata',['../classKourier_1_1IOChannel.html#a7b5c975fc1d013941c019d2c35038c27',1,'Kourier::IOChannel::sentData()'],['../classKourier_1_1HttpBroker.html#a1659dd5b9eb13e98d2034b64e9521104',1,'Kourier::HttpBroker::sentData()']]],
   ['serveroption_2',['serverOption',['../classKourier_1_1HttpServer.html#ab20cdaa2ef7e46dfe07b22ba5fe33e6b',1,'Kourier::HttpServer']]],
   ['setbindaddressandport_3',['setBindAddressAndPort',['../classKourier_1_1TcpSocket.html#a04badbaf59a637ec781ed82f9405da1b',1,'Kourier::TcpSocket']]],
   ['setcacertificates_4',['setCaCertificates',['../classKourier_1_1TlsConfiguration.html#a5cb1c5b4dc23de585e7c6cbed712d007',1,'Kourier::TlsConfiguration']]],
@@ -12,7 +12,7 @@ var searchData=
   ['setpeerverifydepth_9',['setPeerVerifyDepth',['../classKourier_1_1TlsConfiguration.html#aeec536a4b61d886b1c5f191eefe24d4c',1,'Kourier::TlsConfiguration']]],
   ['setpeerverifymode_10',['setPeerVerifyMode',['../classKourier_1_1TlsConfiguration.html#a7820eb05e49c7b4c0c6030d122e111d0',1,'Kourier::TlsConfiguration']]],
   ['setqobject_11',['setQObject',['../classKourier_1_1HttpBroker.html#a5e64af503675366235e575286b54c717',1,'Kourier::HttpBroker']]],
-  ['setreadbuffercapacity_12',['setReadBufferCapacity',['../classKourier_1_1IOChannel.html#af1f2000949aa55fc81d962ec3cc8e6b1',1,'Kourier::IOChannel::setReadBufferCapacity()'],['../classKourier_1_1TcpSocket.html#a3ee4296bd380c7b21a19b1e11f07a08b',1,'Kourier::TcpSocket::setReadBufferCapacity()']]],
+  ['setreadbuffercapacity_12',['setreadbuffercapacity',['../classKourier_1_1IOChannel.html#af1f2000949aa55fc81d962ec3cc8e6b1',1,'Kourier::IOChannel::setReadBufferCapacity()'],['../classKourier_1_1TcpSocket.html#a3ee4296bd380c7b21a19b1e11f07a08b',1,'Kourier::TcpSocket::setReadBufferCapacity()']]],
   ['setserveroption_13',['setServerOption',['../classKourier_1_1HttpServer.html#a0b295e5fb420a826be8f3b931476632d',1,'Kourier::HttpServer']]],
   ['setsocketoption_14',['setSocketOption',['../classKourier_1_1TcpSocket.html#a54c3954e073585a8f15811dfd5a1ae32',1,'Kourier::TcpSocket']]],
   ['settlsconfiguration_15',['setTlsConfiguration',['../classKourier_1_1HttpServer.html#acdf94d6c0ff17a9f77f0437f75b86695',1,'Kourier::HttpServer']]],

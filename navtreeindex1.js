@@ -1,7 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"classKourier_1_1TlsConfiguration.html#ad6e8229125565a57e82190070e3bd709":[3,0,0,7,12],
-"classKourier_1_1TlsConfiguration.html#ae5040352155b1fb834d327336ba560ef":[3,0,0,7,19],
 "classKourier_1_1TlsConfiguration.html#ae794bc3fe880cf5b0d31728907a98034":[3,0,0,7,4],
 "classKourier_1_1TlsConfiguration.html#aeec536a4b61d886b1c5f191eefe24d4c":[3,0,0,7,21],
 "classKourier_1_1TlsSocket.html":[3,0,0,8],

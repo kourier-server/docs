@@ -12,10 +12,9 @@ var searchData=
   ['maxtrailernamesize_9',['MaxTrailerNameSize',['../classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a1b275460c8fed9f7d8fe9990eda82e5d',1,'Kourier::HttpServer']]],
   ['maxtrailervaluesize_10',['MaxTrailerValueSize',['../classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a29254e06d4077eaaef3569ccbfa14560',1,'Kourier::HttpServer']]],
   ['maxurlsize_11',['MaxUrlSize',['../classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a2e5074d7e7ee05dd6025e8a827402126',1,'Kourier::HttpServer']]],
-  ['method_12',['Method',['../classKourier_1_1HttpRequest.html#a68e941fd4fe8f501e0a1de78a70f7be7',1,'Kourier::HttpRequest']]],
-  ['method_13',['method',['../classKourier_1_1HttpRequest.html#a2f0f12b3900c5069a136ba78026d073e',1,'Kourier::HttpRequest']]],
-  ['methodnotallowed_14',['MethodNotAllowed',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3a8ba68fee5542f5fd071aed140c39bd8e',1,'Kourier::HttpBroker']]],
-  ['misdirectedrequest_15',['MisdirectedRequest',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3ac110d06054539d0031cbefdf78d1fdd6',1,'Kourier::HttpBroker']]],
-  ['movedpermanently_16',['MovedPermanently',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3a32638c25f4c913fce6214c2c4afff9dc',1,'Kourier::HttpBroker']]],
-  ['multiplechoices_17',['MultipleChoices',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3aa589749d075c3423333bdc93e3b4e774',1,'Kourier::HttpBroker']]]
+  ['method_12',['method',['../classKourier_1_1HttpRequest.html#a2f0f12b3900c5069a136ba78026d073e',1,'Kourier::HttpRequest::method() const'],['../classKourier_1_1HttpRequest.html#a68e941fd4fe8f501e0a1de78a70f7be7',1,'Kourier::HttpRequest::Method']]],
+  ['methodnotallowed_13',['MethodNotAllowed',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3a8ba68fee5542f5fd071aed140c39bd8e',1,'Kourier::HttpBroker']]],
+  ['misdirectedrequest_14',['MisdirectedRequest',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3ac110d06054539d0031cbefdf78d1fdd6',1,'Kourier::HttpBroker']]],
+  ['movedpermanently_15',['MovedPermanently',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3a32638c25f4c913fce6214c2c4afff9dc',1,'Kourier::HttpBroker']]],
+  ['multiplechoices_16',['MultipleChoices',['../classKourier_1_1HttpBroker.html#afcb133c9ddfaf8f698076c44a22660d3aa589749d075c3423333bdc93e3b4e774',1,'Kourier::HttpBroker']]]
 ];

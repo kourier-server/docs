@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getting_20started_0',['Getting Started',['../index.html',1,'']]]
+  ['handlers_0',['Adding Handlers',['../AddingHandlers.html',1,'']]]
 ];

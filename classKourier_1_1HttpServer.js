@@ -9,8 +9,6 @@ var classKourier_1_1HttpServer =
     [ "ServerOption", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424", [
       [ "WorkerCount", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424ac1ac5528a170ede41561b29f37ee08d8", null ],
       [ "TcpServerBacklogSize", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a5f8a9cb857f5c3bc65217f51b762a20b", null ],
-      [ "IdleTimeoutInSecs", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a5914759c7a3979c4c4fc8439f939117f", null ],
-      [ "RequestTimeoutInSecs", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424af7bd001d4e8660bec03ee97c54d4b948", null ],
       [ "MaxUrlSize", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a2e5074d7e7ee05dd6025e8a827402126", null ],
       [ "MaxHeaderNameSize", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424aac6f70e2a231a7099972e09ae462ce97", null ],
       [ "MaxHeaderValueSize", "classKourier_1_1HttpServer.html#aa236ac45bbe9e480b4748c345087e424a18b05944bc07f74ea8c6e84ae1b0e95c", null ],
